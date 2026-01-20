@@ -173,9 +173,9 @@ Replace `/path/to/your/knowledge-bank` with your actual knowledge bank directory
 
 ### Session Recap
 
-When Claude Code starts, it displays the session path:
+When Claude Code starts, it displays the session folder path:
 ```
-Session: /Users/you/.claude/projects/project-name/session-id.jsonl
+Session: /path-to-knowledge-bank/_sessions/<yyyy-mm-dd>/<session-id>
 ```
 
 **Workflow:**
@@ -185,10 +185,11 @@ Session: /Users/you/.claude/projects/project-name/session-id.jsonl
 4. **Start a NEW session** and invoke:
    ```bash
    # Slash command:
-   /session-recap /path/to/session.jsonl
+   /session-recap /path/to/session-folder
+   # /path/to/session-folder looks like "/<path-to-knowledge-bank>/_sessions/yyyy-mm-dd>/<session-id>"
 
    # Or natural language:
-   "Recap the session at /path/to/session.jsonl"
+   "Recap the session at /path/to/session-folder"
    ```
 
 ### Knowledge Lookup
