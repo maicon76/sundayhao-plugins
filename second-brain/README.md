@@ -6,6 +6,7 @@
   ![Version](https://img.shields.io/badge/version-1.0.0-blue)
   ![License](https://img.shields.io/badge/license-Apache--2.0-green)
   ![Claude Code](https://img.shields.io/badge/Claude%20Code-Plugin-purple)
+  ![Author](https://img.shields.io/badge/author-sxhmilyoyo-orange)
 </div>
 
 > **Agentic Workflow with Memory and Tribal Knowledge**
@@ -128,7 +129,7 @@ Knowledge compounds. Every insight builds on the last. Your AI becomes as experi
 
 **Via Claude Code CLI:**
 ```bash
-claude plugins marketplace add sxhmilyoyo/sundayhao-plugins
+claude plugin marketplace add sxhmilyoyo/sundayhao-plugins
 ```
 
 **Or via slash command (in Claude Code):**
@@ -140,12 +141,12 @@ claude plugins marketplace add sxhmilyoyo/sundayhao-plugins
 
 **Via Claude Code CLI:**
 ```bash
-claude plugins install second-brain@sxhmilyoyo/sundayhao-plugins
+claude plugin install second-brain@sundayhao-plugins
 ```
 
 **Or via slash command (in Claude Code):**
 ```
-/plugin install second-brain@sxhmilyoyo/sundayhao-plugins
+/plugin install second-brain@sundayhao-plugins
 ```
 
 ### Step 3: Configure Knowledge Bank Path
